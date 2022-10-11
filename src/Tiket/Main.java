@@ -252,7 +252,7 @@ public class Main extends javax.swing.JFrame {
                 Harga.setText("2500");
             }
             else if(Akhir.getSelectedIndex() == 4){
-                Harga.setText("3000");
+                Harga.setText("3500");
             }
             else if(Akhir.getSelectedIndex() == 5){
                 Harga.setText("4000");
